@@ -1,0 +1,4 @@
+Prediction_Model,KS_Statistic,P_Value
+Mean of 2 Previous Failures,0.05714285714285714,0.9990699174117685
+Mean of 3 Previous Failures,0.057971014492753624,0.998803697981138
+Mean of 4 Previous Failures,0.058823529411764705,0.9998457288309626
